@@ -1,1 +1,0 @@
-echo "Get YOLO badge"
